@@ -29,7 +29,7 @@ const productData = [
     //  timeLeft: 24,
    //   appLink: "https://panelvip.co.uk/iphone.apk"
 
-    }
+    //}
     // {
     //   id: 4,
     //   name: "SECURE TUNNEL",
