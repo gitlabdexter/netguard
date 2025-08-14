@@ -1,11 +1,11 @@
 const siteOptionData = [
     {
       id: 1,
-      siteName: "BLOODLINE DEV",
+      siteName: "NETGUARD PRO",
       image:
-        "https://i.ibb.co/1RF1Gfq/favicon.png",
+        "https://i.ibb.co/BKTKPMSd/icon-icon.png",
       description: "Experience a secure and reliable VPN service with enhanced privacy and performance.",
-      siteLink: "https://sumsag-ultra.site/"
+      siteLink: "https://panel.netvpro.info/"
     }
   ];
   export default siteOptionData;
