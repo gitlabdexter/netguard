@@ -8,7 +8,7 @@ const productData = [
       rating: 5,
       timeLeft: 24,
       appLink: "https://gitlab.com/mtkdev1/dextereskalarte/-/raw/main/netguard-release.apk" 
-       },
+       }
      // id: 2,
      // name: "SUMSAG ULTRA",
      // image:"https://i.ibb.co/1RF1Gfq/favicon.png",
